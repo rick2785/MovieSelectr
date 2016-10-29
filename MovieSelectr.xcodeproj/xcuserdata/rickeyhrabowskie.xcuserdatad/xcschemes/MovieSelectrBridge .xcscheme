@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0800"
+   LastUpgradeVersion = "0810"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "866B9B991DAA972D007AE88B"
-               BuildableName = "MovieSelectr.app"
-               BlueprintName = "MovieSelectr"
+               BlueprintIdentifier = "20FBABD11DC4D4AD0053D34E"
+               BuildableName = "MovieSelectrBridge.framework"
+               BlueprintName = "MovieSelectrBridge"
                ReferencedContainer = "container:MovieSelectr.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "866B9B991DAA972D007AE88B"
-            BuildableName = "MovieSelectr.app"
-            BlueprintName = "MovieSelectr"
-            ReferencedContainer = "container:MovieSelectr.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "866B9B991DAA972D007AE88B"
-            BuildableName = "MovieSelectr.app"
-            BlueprintName = "MovieSelectr"
+            BlueprintIdentifier = "20FBABD11DC4D4AD0053D34E"
+            BuildableName = "MovieSelectrBridge.framework"
+            BlueprintName = "MovieSelectrBridge"
             ReferencedContainer = "container:MovieSelectr.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "866B9B991DAA972D007AE88B"
-            BuildableName = "MovieSelectr.app"
-            BlueprintName = "MovieSelectr"
+            BlueprintIdentifier = "20FBABD11DC4D4AD0053D34E"
+            BuildableName = "MovieSelectrBridge.framework"
+            BlueprintName = "MovieSelectrBridge"
             ReferencedContainer = "container:MovieSelectr.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

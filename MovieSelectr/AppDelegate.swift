@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  MovieSelectr
+//  MovieSelector
 //
-//  Created by Training on 09/10/2016.
-//  Copyright © 2016 Training. All rights reserved.
+//  Created by Rickey Hrabowskie on 10/23/16.
+//  Copyright © 2016 Rickey Hrabowskie. All rights reserved.
 //
 
 import UIKit
